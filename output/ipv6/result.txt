@@ -594,4 +594,4 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 东森电影,https://stream1.freetv.fun/dong-sen-dian-ying-4.m3u8
 
 🕘️更新时间,#genre#
-2025-12-26 14:13:39,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-12-26 14:28:16,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
