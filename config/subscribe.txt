@@ -1,7 +1,7 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
 
-https://iptv-org.github.io/iptv/countries/cn.m3u
+# https://iptv-org.github.io/iptv/countries/cn.m3u
 https://iptv-org.github.io/iptv/countries/hk.m3u
 https://iptv-org.github.io/iptv/countries/tw.m3u
 https://iptv-org.github.io/iptv/countries/jp.m3u
@@ -13,8 +13,8 @@ https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
 https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/others_output.txt
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 
-https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.m3u
-https://raw.githubusercontent.com/skddyj/iptv/refs/heads/main/IPTV.m3u
+# https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.m3u
+# https://raw.githubusercontent.com/skddyj/iptv/refs/heads/main/IPTV.m3u
 
 
 [WHITELIST]
