@@ -180,7 +180,9 @@ CCTV-17,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888
 CCTV-17,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638728afa13b4/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUdDh4EPdDnvGlSBkYaxFdaz%2FyAI9to%2FMBBt%2FivcdSfljJ1%2FqqamWUjAiBAxNssfyBlZUDSXAIMtStS86hRHFuJM
 CCTV-17,http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000494/index.m3u8?
 CCTV-4欧洲,https://mgtv.ottiptv.cc/mg/608807419.m3u8?userid=5559462299&sign=df247d652c03859355266a7ba5d4bb582a5af3bfd6a69e1a3934af92d2d79a5663119b05474b78ece7d8815b0882fd727b0f89843868b4f7bb5bbb5aac8cb59f239c7a2d53d54274fd6a759fb86fa1ff38&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+CCTV-4欧洲,http://z.b.bkpcp.top/m.php?id=cctv4o
 CCTV-4美洲,https://mgtv.ottiptv.cc/mg/608807416.m3u8?userid=5559462299&sign=64ac29ffae154c5c2738797fec223a999a0bffe88fa6cd45b56b8ec04edd5646faa7b66340206ee1d287c7ce480c9d4b7dd6d7aa7715047582282c2f2917075b5b60a2449790687cae5bffdad2f1888ecd&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+CCTV-4美洲,http://z.b.bkpcp.top/m.php?id=cctv4m
 
 卫视频道,#genre#
 广东卫视,https://www.gdtv.cn/tvChannelDetail/43
@@ -423,12 +425,13 @@ CCTV-4美洲,https://mgtv.ottiptv.cc/mg/608807416.m3u8?userid=5559462299&sign=64
 山东卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226456/index.m3u8
 山东卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225484/2/index.m3u8
 山东卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225697/2/index.m3u8
-山西卫视,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
 山西卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8
+山西卫视,https://stream1.freetv.fun/shan-xi-wei-shi-25.m3u8
 陕西卫视,https://mgtv.ottiptv.cc/mg/738910838.m3u8?userid=5559462299&sign=124ad7cfb4c5a49d7360254c0f209631bfd76212b245e633c37a41a2d2a0d458a1d726875b890f3aa5a8006c9b73722c13596c4ac664c1326e84c15e28814c9d619f3505d9a21d4d64d7a1036879b00894&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 陕西卫视,http://hlsbkmgsplive.miguvideo.com/migu/kailu/shan3xiws/57/20220809/index.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=
 陕西卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225625/index.m3u8
 陕西卫视,https://migu.188766.xyz/?migutoken=3a44ac4fba5593cb0edd36cd9b376faa&id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&type=yy
+陕西卫视,https://migu.188766.xyz/?migutoken=ae83856aa1ef8a6f2237fdfa11ba6005&id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&type=yy
 四川卫视,http://[2409:8087:74f0:22::6]:6410/270000001128/9900000025/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000025
 四川卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
 四川卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
@@ -520,17 +523,17 @@ CCTV-4美洲,https://mgtv.ottiptv.cc/mg/608807416.m3u8?userid=5559462299&sign=64
 明珠台,https://mytv.cdn.loc.cc/o12.php?id=mzt
 明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
 明珠台,http://hls.168.us.kg/u/84/master.m3u8
-明珠台,http://php.jdshipin.com/smt.php?id=pearl_twn
+明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
 凤凰中文,http://iptv.diyp.site/公众号【DIYP】.php?key=gat5&id=7ab7c7d787d2a25089f090027098972a
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 凤凰中文,http://r.jdshipin.com/cCCzW
 凤凰中文,http://cdn6.163189.xyz/163189/fhzw
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰中文,http://php.jdshipin.com/PLTV/iptv.php?id=fhzw
-凤凰中文,https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixtv_hd
 凤凰中文,https://cdn6.101.qzz.io/163189/fhzw
 凤凰中文,https://k44991.kylintv.tv/live/pxna_iphone.m3u8
 凤凰中文,https://cdn6.163189.xyz/163189/fhzw
+凤凰中文,http://php.jdshipin.com:8880/xsj.php?id=phtv-cn
 凤凰资讯,http://iptv.diyp.site/公众号【DIYP】.php?key=gat5&id=7f4703c71abe60b90887a794355363c8
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 凤凰资讯,http://r.jdshipin.com/0Rp07
@@ -538,9 +541,9 @@ CCTV-4美洲,https://mgtv.ottiptv.cc/mg/608807416.m3u8?userid=5559462299&sign=64
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
 凤凰资讯,http://php.jdshipin.com/PLTV/iptv.php?id=fhzx
-凤凰资讯,https://smart.pendy.dpdns.org/Smart.php?id=phoenixinfo_hd
 凤凰资讯,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
 凤凰资讯,https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixinfo_hd
+凤凰资讯,https://cdn6.101.qzz.io/163189/fhzx
 凤凰香港,http://iptv.diyp.site/公众号【DIYP】.php?key=gat5&id=f2ad963332e3a496326ee97dc82c475e
 凤凰香港,http://r.jdshipin.com/yDoTN
 凤凰香港,http://api.kkitv.itv888.vip:8080/streams/mty4v56ud39/index.m3u8
@@ -548,9 +551,9 @@ CCTV-4美洲,https://mgtv.ottiptv.cc/mg/608807416.m3u8?userid=5559462299&sign=64
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 凤凰香港,http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
 凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
-凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
-凤凰香港,https://cdn9.163189.xyz/smt3.1.1.php?id=hkphoenix_twn
 凤凰香港,https://cdn6.101.qzz.io/163189/fhhk
+凤凰香港,https://epg.pw/stream/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.m3u8
+凤凰香港,http://php.jdshipin.com:8880/xsj.php?id=phtv-hk
 凤凰卫视,http://api.kkitv.itv888.vip:8080/streams/vny1wblsnch/index.m3u8
 凤凰卫视,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
 凤凰卫视,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
@@ -580,11 +583,13 @@ CCTV-4美洲,https://mgtv.ottiptv.cc/mg/608807416.m3u8?userid=5559462299&sign=64
 澳亚卫视,https://stream1.freetv.fun/ao-ya-wei-shi-1.ctv
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 三立台湾,https://stream1.freetv.fun/san-li-tai-wan-5.m3u8
+三立台湾,https://smart.946985.filegear-sg.me/smart.php?id=sanlitaiwan
 三立新闻,http://iptv.diyp.site/公众号【DIYP】.php?key=gat5&id=db8e1e5ca873263badcb5fe80cf52d5f
 三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 三立新闻,https://epg.pw/stream/6b49e3faa38adda85abab446f032dc1e686baa0760a9cfa66e2df8fd6fe3b445.m3u8
 东森超视,http://iptv.diyp.site/公众号【DIYP】.php?key=gat5&id=163e6c3e3bd21f2beb6af46d4b6b9353
 东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-6.m3u8
+东森超视,https://smart.946985.filegear-sg.me/smart.php?id=ettvsuper
 东森电影,http://iptv.diyp.site/公众号【DIYP】关注一下啊.php?key=gat2&id=11
 东森电影,https://stream1.freetv.fun/dong-sen-dian-ying-3.m3u8
 东森电影,https://stream1.freetv.fun/dong-sen-dian-ying-6.ctv
@@ -594,6 +599,7 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 东森电影,https://stream1.freetv.fun/dong-sen-dian-ying-5.m3u8
 东森电影,https://stream1.freetv.fun/dong-sen-dian-ying-2.m3u8
 东森电影,https://stream1.freetv.fun/dong-sen-dian-ying-4.m3u8
+东森电影,https://smart.946985.filegear-sg.me/smart.php?id=ettvmovie
 
 🕘️更新时间,#genre#
-2025-12-26 15:36:52,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-12-27 19:07:10,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
