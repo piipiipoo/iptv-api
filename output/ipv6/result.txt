@@ -591,6 +591,7 @@ CCTV-4美洲,http://zb.pl10000.top/2167_1767754402425.m3u8
 凤凰卫视,http://zb.pl10000.top/4628_1767754402425.m3u8
 凤凰卫视,http://zb.pl10000.top/4534_1768013276584.m3u8
 凤凰卫视,http://zb.pl10000.top/4922_1768272749575.m3u8
+凤凰卫视,http://zb.pl10000.top/4803_1768532102486.m3u8
 香港卫视,http://anren.live/HK/BSJDUFpB.m3u8
 香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
 香港卫视,https://stream1.freetv.fun/5335c88a9a7d8b74173b491f480d4f94e8d3bd596af54478106aa2399e6c7917.ctv
@@ -635,4 +636,4 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 东森电影,https://smart.946985.filegear-sg.me/smart.php?id=ettvmovie
 
 🕘️更新时间,#genre#
-2026-01-15 18:55:58,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-01-17 18:44:58,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
