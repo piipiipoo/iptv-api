@@ -59,7 +59,6 @@ CCTV-5+,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888
 CCTV-5+,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225706/2/index.m3u8
 CCTV-5+,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225706/index.m3u8
 CCTV-5+,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225603/index.m3u8
-CCTV-6,https://zby.130519.xyz/PLTV/11/224/3221226148/index.m3u8
 CCTV-6,https://smart.pendy.dpdns.org/Smart.php?id=cctv6
 CCTV-6,http://13937899.xyz:35455/gaoma/cctv6.m3u8
 CCTV-6,https://mgtv.ottiptv.cc/mg/624878396.m3u8?userid=5559462299&sign=be7be3c197ebd74fcffdb545b926a71edc25b4cfda217c66f15e595a10c0e54cf0a6cfb416070175d47479404a5c7d5a87e150140c0574e60645b91159561fc344ce2b50f95bc170a446f8daa63b1ecd5e&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
@@ -69,6 +68,7 @@ CCTV-6,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 CCTV-6,https://migu.188766.xyz/?migutoken=2e2d814feafd6a76420245cde8b6b2c0&id=CCTV6&type=yy
 CCTV-6,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225632/2/index.m3u8
 CCTV-6,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225650/2/index.m3u8
+CCTV-6,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225632/index.m3u8
 CCTV-7,https://smart.pendy.dpdns.org/Smart.php?id=cctv7
 CCTV-7,https://m.miguvideo.com/m/liveDetail/673168121?channelId=10010001005
 CCTV-7,https://mgtv.ottiptv.cc/mg/673168121.m3u8?userid=5559462299&sign=4862d8ab5630e1d77c8c3083fd2cde5e52f8f630c5e2f650b6a854990d4aac16282bac25ca9383823107a6595f0cf19dffbd3f6192ec11bbe3b7e318becc98c1f6b2da9e9bb400314454e74c5ef9b90a88&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
@@ -79,7 +79,6 @@ CCTV-7,https://migu.188766.xyz/?migutoken=66067d34e2c860e93c2bc43a47aac0ed&id=CC
 CCTV-7,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225624/index.m3u8
 CCTV-7,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225624/2/index.m3u8
 CCTV-7,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225644/2/index.m3u8
-CCTV-8,https://zby.130519.xyz/PLTV/11/224/3221226167/index.m3u8
 CCTV-8,http://13937899.xyz:35455/gaoma/cctv8.m3u8
 CCTV-8,https://mgtv.ottiptv.cc/mg/624878356.m3u8?userid=5559462299&sign=544a5cad45de21c2231d98b8805e669ba9100e8e373aec11f322d350ac1f424602a2a20aee4650ded5208685871d914180b4acc91c07dca7e080b2558df28389585436b2b2917c5656940d5507cf4a5ba9&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 CCTV-8,http://[2409:8087:74f0:22::9]:6410/270000001111/1110000309/index.m3u8?channel-id=newtv&livemode=4&Contentid=1110000309
@@ -89,6 +88,7 @@ CCTV-8,https://migu.188766.xyz/?migutoken=924bd4d20a89eae22fb75fa1f12c8b4d&id=CC
 CCTV-8,http://3501776.xyz:35455/gaoma/cctv8k_36m.m3u8
 CCTV-8,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225631/index.m3u8
 CCTV-8,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225631/2/index.m3u8
+CCTV-8,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225635/2/index.m3u8
 CCTV-9,https://smart.pendy.dpdns.org/Smart.php?id=cctv9hd
 CCTV-9,https://mgtv.ottiptv.cc/mg/673168140.m3u8?userid=5559462299&sign=7ef878c5f7984ff5ddbd171d50f8dd906021b9ecfd04a4292e93e8be7d11ba78c38b493fcfeb304a695a17d0f5c4b8b5b94a51a770ac95bbed52130320fc6607d087f02ab16d84a4982869b9e724062d06&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 CCTV-9,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000505/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000505
@@ -99,7 +99,6 @@ CCTV-9,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225646/i
 CCTV-9,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225626/2/index.m3u8
 CCTV-9,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225646/2/index.m3u8
 CCTV-9,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000039BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSpr1AVNI633ampcuzdN%2BfHArfvJF2pWpm4RxcBNhZ7j9vEUeCQte%2BbQaOGNIUEEK%2B3RBE1BC9EUsM18gnb%2FyAA
-CCTV-10,https://zby.130519.xyz/PLTV/11/224/3221226169/index.m3u8
 CCTV-10,https://mgtv.ottiptv.cc/mg/624878405.m3u8?userid=5559462299&sign=e3adc5de0f0b5224c62878ee993bafcc320f25ceee75ff9065dcab10642596cfdd4c7f5a1238e713d6347c90409abdbb03403adda44864fb770bf9a0727476ce29b7286e8e7f9dd8e69f8d62eeb15b9f45&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 CCTV-10,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000506/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000506
 CCTV-10,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u8
@@ -109,7 +108,7 @@ CCTV-10,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225636/
 CCTV-10,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225636/2/index.m3u8
 CCTV-10,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225730/index.m3u8
 CCTV-10,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
-CCTV-11,https://zby.130519.xyz/PLTV/11/224/3221226145/index.m3u8
+CCTV-10,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225496/2/index.m3u8
 CCTV-11,https://smart.pendy.dpdns.org/Smart.php?id=cctv11
 CCTV-11,https://mgtv.ottiptv.cc/mg/667987558.m3u8?userid=5559462299&sign=81b689f6da3acbecfd6d529494dbc175a1440aebf90b766530dab3fc179a0d8b06c01aafcad6e33e23d9c3d84877b45357f917a81b1bfffb5901fe59f570993347c726db0d875b4e2df905aa7f8c8cdf91&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 CCTV-11,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000508/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000508
@@ -119,7 +118,7 @@ CCTV-11,https://migu.188766.xyz/?migutoken=4f1674ecb8cf83b89139571ab78212b3&id=C
 CCTV-11,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225628/2/index.m3u8
 CCTV-11,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225628/index.m3u8
 CCTV-11,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000053BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTWDyIgRkFJBAHMhA2ayG0Qj2xHA4vdPGsjBbxSL3p%2FmAObVTfznR%2Fpc%2B76QYmLRMuL3Lj9iabhv8arW7kJe6%2F4
-CCTV-12,https://zby.130519.xyz/PLTV/11/224/3221226126/index.m3u8
+CCTV-11,http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000497/index.m3u8?
 CCTV-12,http://13937899.xyz:35455/gaoma/cctv12.m3u8
 CCTV-12,https://mgtv.ottiptv.cc/mg/673168185.m3u8?userid=5559462299&sign=36c54f082a5ddd6607812335847903d68b5612f063b57ffd8158c6a5d35e4e7dd9ae11d1e173aa02045e0bc26d38940300ee276f3c1ba8d5f7adb581252079aeb73676b9ddca1855305dd52a17f6eeec1b&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 CCTV-12,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000509/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000509
@@ -129,6 +128,7 @@ CCTV-12,https://migu.188766.xyz/?migutoken=74f4c1b7c36df72a629760e95644694d&id=C
 CCTV-12,https://iptv.catvod.com/live.php?id=CCTV-12
 CCTV-12,https://epg.pw/stream/aedb71e61961cd2a5a5b9a8a83b8ae489c9408e6b420593aecb92cc36de628fe.m3u8
 CCTV-12,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225637/index.m3u8
+CCTV-12,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225629/2/index.m3u8
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 CCTV-13,https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8
 CCTV-13,https://epg.pw/stream/5d3d047c64e44d0a24dc33e5700e579457201d2960036b43819bd930a0bb76a7.m3u8
@@ -637,4 +637,4 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 东森电影,https://smart.946985.filegear-sg.me/smart.php?id=ettvmovie
 
 🕘️更新时间,#genre#
-2026-01-21 19:01:47,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-01-23 18:57:28,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
