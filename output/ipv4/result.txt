@@ -1,37 +1,26 @@
 央视频道,#genre#
-CCTV-2,https://iptv.catvod.com/live.php?id=CCTV2&line=15
 CCTV-2,https://iptv.catvod.com/live.php?id=CCTV2&line=17
+CCTV-2,https://iptv.catvod.com/live.php?id=CCTV2&line=15
 CCTV-2,https://iptv.catvod.com/live.php?id=CCTV2&line=14
 CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5&line=16
-CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5&line=15
 CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5&line=13
+CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5&line=15
 CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5&line=14
 CCTV-8,http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
-CCTV-11,https://iptv.catvod.com/live.php?id=CCTV11&line=11
 CCTV-11,https://iptv.catvod.com/live.php?id=CCTV11&line=9
-CCTV-11,http://69.30.246.194/live/cctv11.m3u8
+CCTV-11,https://iptv.catvod.com/live.php?id=CCTV11&line=11
 CCTV-12,https://iptv.catvod.com/live.php?id=CCTV12&line=14
+CCTV-12,http://69.30.246.194/live/cctv12.m3u8
 CCTV-14,http://69.30.246.194/live/cctv14.m3u8
-CCTV-14,http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009
-CCTV-15,http://69.30.246.194/live/cctv15.m3u8
 CCTV-16,https://iptv.catvod.com/live.php?id=CCTV16
-CCTV-16,http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
 
 卫视频道,#genre#
+湖南卫视,http://69.30.246.194/live/hnws.m3u8
 北京卫视,https://iptv.catvod.com/live.php?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&line=1
-湖北卫视,http://38.75.136.137:98/gslb/dsdqpub/hbwshd.m3u8?auth=testpub
-重庆卫视,http://38.75.136.137:98/gslb/dsdqpub/cqwshd.m3u8?auth=testpub
 贵州卫视,https://iptv.catvod.com/live.php?id=%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86
-贵州卫视,http://38.75.136.137:98/gslb/dsdqpub/gzwshd.m3u8?auth=testpub
-河北卫视,http://38.75.136.137:98/gslb/dsdqpub/hewshd.m3u8?auth=testpub
 吉林卫视,http://38.75.136.137:98/gslb/dsdqpub/jlwshd.m3u8?auth=testpub
-江苏卫视,http://69.30.246.194/live/jsws.m3u8
-江西卫视,http://38.75.136.137:98/gslb/dsdqpub/jxwshd.m3u8?auth=testpub
-内蒙古卫视,http://38.75.136.137:98/gslb/dsdqpub/nmgws.m3u8?auth=testpub
-宁夏卫视,http://38.75.136.137:98/gslb/dsdqpub/nxws.m3u8?auth=testpub
 青海卫视,http://38.75.136.137:98/gslb/dsdqpub/qhws.m3u8?auth=testpub
-山西卫视,http://38.75.136.137:98/gslb/dsdqpub/sxwshd.m3u8?auth=testpub
-陕西卫视,http://38.75.136.137:98/gslb/dsdqpub/snwshd.m3u8?auth=testpub
+三沙卫视,http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub
 云南卫视,http://38.75.136.137:98/gslb/dsdqpub/ynwshd.m3u8?auth=testpub
 
 港·澳·台,#genre#
@@ -42,4 +31,4 @@ CCTV-16,http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
 澳视澳门,http://rihou.cc:555/tv/[Pd]澳视澳门
 
 🕘️更新时间,#genre#
-2026-02-21 09:41:50,https://iptv.catvod.com/live.php?id=CCTV2&line=15
+2026-02-21 18:38:52,https://iptv.catvod.com/live.php?id=CCTV2&line=17
