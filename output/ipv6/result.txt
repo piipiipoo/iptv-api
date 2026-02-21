@@ -755,3 +755,6 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 东森电影,https://stream1.freetv.fun/dong-sen-dian-ying-2.m3u8
 东森电影,https://stream1.freetv.fun/dong-sen-dian-ying-4.m3u8
 东森电影,https://smart.946985.filegear-sg.me/smart.php?id=ettvmovie
+
+🕘️更新时间,#genre#
+2026-02-21 09:41:50,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
