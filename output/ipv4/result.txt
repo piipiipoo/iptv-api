@@ -1,31 +1,29 @@
 央视频道,#genre#
-CCTV-1,https://iptv.catvod.com/live.php?id=CCTV1&line=20
-CCTV-1,https://iptv.catvod.com/live.php?id=CCTV1&line=21
-CCTV-4,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv4hd
-CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5&line=13
 CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5&line=14
-CCTV-6,https://iptv.catvod.com/live.php?id=CCTV6&line=17
+CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5&line=13
 CCTV-6,https://iptv.catvod.com/live.php?id=CCTV6&line=16
 CCTV-6,https://iptv.catvod.com/live.php?id=CCTV6&line=14
+CCTV-6,https://iptv.catvod.com/live.php?id=CCTV6&line=17
 CCTV-7,https://iptv.catvod.com/live.php?id=CCTV7&line=12
-CCTV-7,https://iptv.catvod.com/live.php?id=CCTV7&line=10
 CCTV-7,https://iptv.catvod.com/live.php?id=CCTV7&line=11
+CCTV-7,https://iptv.catvod.com/live.php?id=CCTV7&line=10
+CCTV-8,http://107.150.60.122/live/cctv8k.m3u8
 CCTV-8,http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
 CCTV-8,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv8hd
-CCTV-9,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv9hd
-CCTV-10,http://107.150.60.122/live/cctv10hd.m3u8
 CCTV-11,https://iptv.catvod.com/live.php?id=CCTV11&line=9
 CCTV-11,https://iptv.catvod.com/live.php?id=CCTV11&line=8
+CCTV-13,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv13hd
+CCTV-14,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv14hd
 CCTV-15,https://iptv.catvod.com/live.php?id=CCTV15&line=8
+CCTV-15,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv15hd
 CCTV-16,rtmp://ayrtsocndali.v.myalicdn.com/ayocnd/4kcctv16_2pd
+CCTV-16,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv16hd
+CCTV-17,http://107.150.60.122/live/cctv17hd.m3u8
 
 卫视频道,#genre#
-北京卫视,http://38.75.136.137:98/gslb/dsdqpub/bjwshd.m3u8?auth=testpub
+湖南卫视,http://107.150.60.122/live/hnwshd.m3u8
 安徽卫视,http://38.75.136.137:98/gslb/dsdqpub/ahwshd.m3u8?auth=testpub
-甘肃卫视,http://38.75.136.137:98/gslb/dsdqpub/gswshd.m3u8?auth=testpub
-河南卫视,http://38.75.136.137:98/gslb/dsdqpub/hawshd.m3u8?auth=testpub
-宁夏卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=nxss
-青海卫视,http://107.150.60.122/live/qhws.m3u8
+吉林卫视,http://38.75.136.137:98/gslb/dsdqpub/jlwshd.m3u8?auth=testpub
 青海卫视,http://38.75.136.137:98/gslb/dsdqpub/qhws.m3u8?auth=testpub
 西藏卫视,http://107.150.60.122/live/xzws.m3u8
 云南卫视,http://38.75.136.137:98/gslb/dsdqpub/ynwshd.m3u8?auth=testpub
@@ -35,4 +33,4 @@ CCTV-16,rtmp://ayrtsocndali.v.myalicdn.com/ayocnd/4kcctv16_2pd
 明珠台,http://rihou.cc:555/tv/[Pd]无线明珠
 
 🕘️更新时间,#genre#
-2026-03-27 18:52:19,https://iptv.catvod.com/live.php?id=CCTV1&line=20
+2026-03-29 18:46:17,https://iptv.catvod.com/live.php?id=CCTV5&line=14
