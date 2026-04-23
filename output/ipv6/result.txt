@@ -764,4 +764,4 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 东森电影,https://smt.1678520.xyz/163189/a2a1ea789e237e18
 
 🕘️更新时间,#genre#
-2026-04-21 19:14:45,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-04-23 19:11:35,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
