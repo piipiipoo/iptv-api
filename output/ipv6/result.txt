@@ -750,6 +750,7 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 东森综合,http://kaniptv.com/xz/xz.php?name=%E4%B8%9C%E6%A3%AE%E7%BB%BC%E5%90%88&index=1
 东森综合,http://kaniptv.com/xz/xz.php?name=%E4%B8%9C%E6%A3%AE%E7%BB%BC%E5%90%88&index=2
 东森综合,http://kaniptv.com/xz/xz.php?name=%E4%B8%9C%E6%A3%AE%E7%BB%BC%E5%90%88&index=3
+东森综合,https://3ea9e6-31f5e6.kylintv.tv/live/ebcvtv_iphone.m3u8
 东森超视,http://iptv.diyp.site/公众号【DIYP】.php?key=gat5&id=163e6c3e3bd21f2beb6af46d4b6b9353
 东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-6.m3u8
 东森超视,https://smart.946985.filegear-sg.me/smart.php?id=ettvsuper
@@ -771,4 +772,4 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 星卫娱乐,https://live.ottiptv.cc/huya/880203
 
 🕘️更新时间,#genre#
-2026-05-21 20:46:50,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-05-23 19:10:04,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
