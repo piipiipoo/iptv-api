@@ -738,6 +738,9 @@ CCTV-4美洲,http://zb.pl10000.top/4368_1767754402425.m3u8
 澳亚卫视,http://cdn9.163189.xyz/live/as/stream.m3u8
 澳亚卫视,https://stream1.freetv.fun/ao-ya-wei-shi-1.ctv
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
+TVBS亚洲,https://4gtv.158.qzz.io/163189/5c95e227-8109-4d5a-ad31-a5456eeba506/
+TVBS亚洲,https://4gtv.158.qzz.io/163189/ac9fc30c-1caf-401e-a373-9a8cc054b527/
+TVBS亚洲,https://iptv.852851.xyz/ch/490e01bc4bc49c735fdf421170bb4536/master.m3u8
 三立台湾,https://stream1.freetv.fun/san-li-tai-wan-5.m3u8
 三立台湾,https://smart.946985.filegear-sg.me/smart.php?id=sanlitaiwan
 三立台湾,http://free.cnlive.club/channel/642f20a/index.m3u8
@@ -772,4 +775,4 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 星卫娱乐,https://live.ottiptv.cc/huya/880203
 
 🕘️更新时间,#genre#
-2026-05-31 19:43:35,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-06-01 23:54:49,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
