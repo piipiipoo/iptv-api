@@ -775,4 +775,4 @@ TVBS亚洲,https://iptv.852851.xyz/ch/490e01bc4bc49c735fdf421170bb4536/master.m3
 星卫娱乐,https://live.ottiptv.cc/huya/880203
 
 🕘️更新时间,#genre#
-2026-06-01 23:54:49,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-06-03 22:28:54,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
