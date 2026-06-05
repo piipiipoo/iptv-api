@@ -1475,6 +1475,8 @@ https://4gtv.158.qzz.io/163189/5c95e227-8109-4d5a-ad31-a5456eeba506/
 https://4gtv.158.qzz.io/163189/ac9fc30c-1caf-401e-a373-9a8cc054b527/
 #EXTINF:-1 tvg-name="TVBS亚洲" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS亚洲.png" group-title="港·澳·台",TVBS亚洲
 https://iptv.852851.xyz/ch/490e01bc4bc49c735fdf421170bb4536/master.m3u8
+#EXTINF:-1 tvg-name="TVBS亚洲" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS亚洲.png" group-title="港·澳·台",TVBS亚洲
+https://4g.158.qzz.io/163189/1bcf344d4a0ea28c
 #EXTINF:-1 tvg-name="三立台湾" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/三立台湾.png" group-title="港·澳·台",三立台湾
 https://stream1.freetv.fun/san-li-tai-wan-5.m3u8
 #EXTINF:-1 tvg-name="三立台湾" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/三立台湾.png" group-title="港·澳·台",三立台湾
@@ -1489,6 +1491,8 @@ http://kaniptv.com/xz/xz.php?name=%E4%B8%89%E7%AB%8B%E5%8F%B0%E6%B9%BE&index=0
 http://iptv.diyp.site/公众号【DIYP】.php?key=gat5&id=db8e1e5ca873263badcb5fe80cf52d5f
 #EXTINF:-1 tvg-name="三立新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/三立新闻.png" group-title="港·澳·台",三立新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+#EXTINF:-1 tvg-name="三立新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/三立新闻.png" group-title="港·澳·台",三立新闻
+https://4gtv.158.qzz.io/163189/6fb8aec9-e4b2-4bed-8832-b5e9cce4a830/
 #EXTINF:-1 tvg-name="东森综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森综合.png" group-title="港·澳·台",东森综合
 http://free.cnlive.club/channel/n31b0a4/index.m3u8
 #EXTINF:-1 tvg-name="东森综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森综合.png" group-title="港·澳·台",东森综合
@@ -1539,5 +1543,5 @@ http://free.cnlive.club/channel/n5502f4/index.m3u8
 https://smt.1678520.xyz/163189/a2a1ea789e237e18
 #EXTINF:-1 tvg-name="星卫娱乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/星卫娱乐.png" group-title="港·澳·台",星卫娱乐
 https://live.ottiptv.cc/huya/880203
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-06-03 22:28:54
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-06-05 20:40:03
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
