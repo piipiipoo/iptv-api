@@ -777,4 +777,4 @@ TVBS亚洲,https://4g.158.qzz.io/163189/1bcf344d4a0ea28c
 星卫娱乐,https://live.ottiptv.cc/huya/880203
 
 🕘️更新时间,#genre#
-2026-06-05 20:40:03,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-06-07 19:47:24,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
