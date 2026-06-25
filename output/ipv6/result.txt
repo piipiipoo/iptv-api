@@ -749,6 +749,7 @@ TVBS亚洲,https://t.freetv.fun/live/tvbsya-zhou-5.m3u8
 三立台湾,http://free.cnlive.club/channel/642f20a/index.m3u8
 三立台湾,https://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=sanlitaiwan
 三立台湾,http://kaniptv.com/xz/xz.php?name=%E4%B8%89%E7%AB%8B%E5%8F%B0%E6%B9%BE&index=0
+三立台湾,https://ha.msbot.dpdns.org/4gtv_api.php?id=169
 三立新闻,http://iptv.diyp.site/公众号【DIYP】.php?key=gat5&id=db8e1e5ca873263badcb5fe80cf52d5f
 三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 三立新闻,https://4gtv.158.qzz.io/163189/6fb8aec9-e4b2-4bed-8832-b5e9cce4a830/
@@ -758,6 +759,7 @@ TVBS亚洲,https://t.freetv.fun/live/tvbsya-zhou-5.m3u8
 东森综合,http://kaniptv.com/xz/xz.php?name=%E4%B8%9C%E6%A3%AE%E7%BB%BC%E5%90%88&index=2
 东森综合,http://kaniptv.com/xz/xz.php?name=%E4%B8%9C%E6%A3%AE%E7%BB%BC%E5%90%88&index=3
 东森综合,https://3ea9e6-31f5e6.kylintv.tv/live/ebcvtv_iphone.m3u8
+东森综合,https://cdn.19891230.eu.org/api/ET-Variety-Channel/index.m3u8
 东森超视,http://iptv.diyp.site/公众号【DIYP】.php?key=gat5&id=163e6c3e3bd21f2beb6af46d4b6b9353
 东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-6.m3u8
 东森超视,https://smart.946985.filegear-sg.me/smart.php?id=ettvsuper
@@ -780,4 +782,4 @@ TVBS亚洲,https://t.freetv.fun/live/tvbsya-zhou-5.m3u8
 星卫娱乐,https://live.ottiptv.cc/huya/880203
 
 🕘️更新时间,#genre#
-2026-06-23 20:34:35,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-06-25 20:21:42,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
