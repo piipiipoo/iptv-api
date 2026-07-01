@@ -1,44 +1,9 @@
 央视频道,#genre#
-CCTV-4,https://iptv.catvod.com/catvod?id=CCTV4&line=13
-CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5&line=13
-CCTV-7,https://iptv.catvod.com/catvod?id=CCTV7&line=2
-CCTV-7,https://iptv.catvod.com/catvod?id=CCTV7&line=5
-CCTV-9,https://iptv.catvod.com/catvod?id=CCTV9&line=8
-CCTV-10,https://iptv.catvod.com/catvod?id=CCTV10&line=7
-CCTV-10,https://iptv.catvod.com/catvod?id=CCTV10&line=12
-CCTV-10,https://iptv.catvod.com/catvod?id=CCTV10&line=11
-CCTV-11,https://iptv.catvod.com/live.php?id=CCTV11&line=8
-CCTV-11,https://iptv.catvod.com/live.php?id=CCTV11&line=9
-CCTV-11,https://iptv.catvod.com/catvod?id=CCTV11&line=3
-CCTV-11,https://iptv.catvod.com/catvod?id=CCTV11&line=2
-CCTV-13,https://iptv.catvod.com/catvod?id=CCTV13&line=1
-CCTV-13,https://iptv.catvod.com/catvod?id=CCTV13&line=12
-CCTV-13,https://iptv.catvod.com/catvod?id=CCTV13&line=2
-CCTV-14,https://iptv.catvod.com/catvod?id=CCTV14&line=1
-CCTV-14,https://iptv.catvod.com/catvod?id=CCTV14&line=7
-CCTV-14,https://iptv.catvod.com/catvod?id=CCTV14&line=5
-CCTV-14,https://iptv.catvod.com/catvod?id=CCTV14&line=8
-CCTV-14,https://iptv.catvod.com/catvod?id=CCTV14&line=6
-CCTV-14,https://iptv.catvod.com/catvod?id=CCTV14&line=9
-CCTV-15,https://iptv.catvod.com/catvod?id=CCTV15&line=7
-CCTV-15,https://iptv.catvod.com/catvod?id=CCTV15&line=5
 CCTV-16,rtmp://ayrtsocndali.v.myalicdn.com/ayocnd/4kcctv16_2pd
-CCTV-16,https://iptv.catvod.com/catvod?id=CCTV16&line=2
-CCTV-17,https://iptv.catvod.com/catvod?id=CCTV17&line=3
-CCTV-17,https://iptv.catvod.com/catvod?id=CCTV17&line=2
 
 卫视频道,#genre#
-湖南卫视,https://iptv.catvod.com/catvod.php?id=hunws
-北京卫视,http://198.204.228.26/live/bjwshd.m3u8
-湖北卫视,https://iptv.catvod.com/catvod.php?id=hubws
+浙江卫视,http://198.204.228.26/live/zjwshd.m3u8
 黑龙江卫视,http://107.150.60.122/live/hljwshd.m3u8
-安徽卫视,http://198.204.228.26/live/ahwshd.m3u8
-东南卫视,https://iptv.catvod.com/catvod.php?id=dnws
-甘肃卫视,https://iptv.catvod.com/catvod.php?id=gsws
-海南卫视,https://iptv.catvod.com/catvod.php?id=hinws
-四川卫视,https://iptv.catvod.com/catvod?id=%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86&line=3
-四川卫视,https://iptv.catvod.com/catvod?id=%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86&line=2
-三沙卫视,https://iptv.catvod.com/catvod.php?id=ssws
 
 港·澳·台,#genre#
 翡翠台,rtmp://demo2.anj365.com/live/xiangjiaoge-fc
@@ -53,4 +18,4 @@ CCTV-17,https://iptv.catvod.com/catvod?id=CCTV17&line=2
 凤凰香港,http://push.cdn1.hls123.de:8080/streams/898y722sqjr/index.m3u8
 
 🕘️更新时间,#genre#
-2026-06-29 22:03:10,https://iptv.catvod.com/catvod?id=CCTV4&line=13
+2026-07-01 20:32:41,rtmp://ayrtsocndali.v.myalicdn.com/ayocnd/4kcctv16_2pd
