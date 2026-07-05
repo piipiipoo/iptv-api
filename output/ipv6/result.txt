@@ -782,4 +782,4 @@ TVBS亚洲,https://t.freetv.fun/live/tvbsya-zhou-5.m3u8
 星卫娱乐,https://live.ottiptv.cc/huya/880203
 
 🕘️更新时间,#genre#
-2026-07-03 20:07:14,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-07-05 19:29:13,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
