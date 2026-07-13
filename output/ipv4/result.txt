@@ -1,7 +1,15 @@
 央视频道,#genre#
+CCTV-1,http://173.208.212.130:8181/1080p/cctv1.m3u8
+CCTV-2,http://173.208.212.130:8181/1080p/cctv2.m3u8
 CCTV-16,rtmp://ayrtsocndali.v.myalicdn.com/ayocnd/4kcctv16_2pd
 
 卫视频道,#genre#
+广东卫视,http://173.208.212.130:8181/1080p/gdws.m3u8
+浙江卫视,http://192.151.150.154/live/zjwshd.m3u8
+湖北卫视,http://173.208.212.130:8181/1080p/hbws.m3u8
+黑龙江卫视,http://173.208.212.130:8181/1080p/hljws.m3u8
+辽宁卫视,http://173.208.212.130:8181/1080p/lnws.m3u8
+深圳卫视,http://173.208.212.130:8181/1080p/szws.m3u8
 
 港·澳·台,#genre#
 翡翠台,rtmp://demo2.anj365.com/live/xiangjiaoge-fc
@@ -12,4 +20,4 @@ CCTV-16,rtmp://ayrtsocndali.v.myalicdn.com/ayocnd/4kcctv16_2pd
 凤凰香港,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fhxg
 
 🕘️更新时间,#genre#
-2026-07-11 19:02:14,rtmp://ayrtsocndali.v.myalicdn.com/ayocnd/4kcctv16_2pd
+2026-07-13 20:37:40,http://173.208.212.130:8181/1080p/cctv1.m3u8
