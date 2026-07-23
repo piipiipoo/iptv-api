@@ -744,6 +744,7 @@ TVBS亚洲,https://iptv.852851.xyz/ch/490e01bc4bc49c735fdf421170bb4536/master.m3
 TVBS亚洲,https://4g.158.qzz.io/163189/1bcf344d4a0ea28c
 TVBS亚洲,https://t.freetv.fun/live/tvbsya-zhou-4.m3u8
 TVBS亚洲,https://t.freetv.fun/live/tvbsya-zhou-5.m3u8
+TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 三立台湾,https://stream1.freetv.fun/san-li-tai-wan-5.m3u8
 三立台湾,https://smart.946985.filegear-sg.me/smart.php?id=sanlitaiwan
 三立台湾,http://free.cnlive.club/channel/642f20a/index.m3u8
@@ -782,4 +783,4 @@ TVBS亚洲,https://t.freetv.fun/live/tvbsya-zhou-5.m3u8
 星卫娱乐,https://live.ottiptv.cc/huya/880203
 
 🕘️更新时间,#genre#
-2026-07-21 19:46:56,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-07-23 19:51:11,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
