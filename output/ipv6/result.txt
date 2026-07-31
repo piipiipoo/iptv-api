@@ -754,6 +754,7 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 三立新闻,http://iptv.diyp.site/公众号【DIYP】.php?key=gat5&id=db8e1e5ca873263badcb5fe80cf52d5f
 三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 三立新闻,https://4gtv.158.qzz.io/163189/6fb8aec9-e4b2-4bed-8832-b5e9cce4a830/
+三立新闻,https://d2jc41c1shgcol.cloudfront.net/live/iNEWS/playlist.m3u8
 东森综合,http://free.cnlive.club/channel/n31b0a4/index.m3u8
 东森综合,http://kaniptv.com/xz/xz.php?name=%E4%B8%9C%E6%A3%AE%E7%BB%BC%E5%90%88&index=0
 东森综合,http://kaniptv.com/xz/xz.php?name=%E4%B8%9C%E6%A3%AE%E7%BB%BC%E5%90%88&index=1
@@ -783,4 +784,4 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 星卫娱乐,https://live.ottiptv.cc/huya/880203
 
 🕘️更新时间,#genre#
-2026-07-29 20:05:00,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-07-31 20:03:10,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
