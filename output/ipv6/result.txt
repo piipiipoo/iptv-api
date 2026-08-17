@@ -794,4 +794,4 @@ TVBS亚洲,http://tv123.cc.cd/live.php?ch=1725&sid=cbaa47b759cc67a346acd5f50cacd
 星卫娱乐,https://live.ottiptv.cc/huya/880203
 
 🕘️更新时间,#genre#
-2026-08-15 18:43:05,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-08-17 18:47:14,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
