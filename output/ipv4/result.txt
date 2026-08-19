@@ -4,13 +4,12 @@ CCTV-16,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001258/
 CCTV-17,https://live.264788.xyz/channel/cctv17
 
 卫视频道,#genre#
-浙江卫视,http://192.151.150.154/live/zjwshd.m3u8
 湖南卫视,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=1919436
 湖南卫视,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1919436
 安徽卫视,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=1919481
 安徽卫视,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1919481
-东方卫视,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1919401
 东方卫视,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=1919401
+东方卫视,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1919401
 江苏卫视,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1919431
 江苏卫视,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=1919431
 江西卫视,https://live.264788.xyz/channel/jiangxiweishi
@@ -33,4 +32,4 @@ CCTV-17,https://live.264788.xyz/channel/cctv17
 凤凰香港,http://c.123.rr.kg/163189/fhhk
 
 🕘️更新时间,#genre#
-2026-08-17 18:47:14,rtmp://ayrtsocndali.v.myalicdn.com/ayocnd/4kcctv16_2pd
+2026-08-19 18:41:17,rtmp://ayrtsocndali.v.myalicdn.com/ayocnd/4kcctv16_2pd
