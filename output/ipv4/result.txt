@@ -5,14 +5,14 @@ CCTV-17,https://live.264788.xyz/channel/cctv17
 
 卫视频道,#genre#
 浙江卫视,http://192.151.150.154/live/zjwshd.m3u8
-湖南卫视,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1919436
 湖南卫视,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=1919436
-安徽卫视,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1919481
+湖南卫视,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1919436
 安徽卫视,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=1919481
-东方卫视,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=1919401
+安徽卫视,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1919481
 东方卫视,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1919401
-江苏卫视,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1919431
+东方卫视,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=1919401
 江苏卫视,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=1919431
+江苏卫视,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=1919431
 江西卫视,https://live.264788.xyz/channel/jiangxiweishi
 辽宁卫视,http://173.208.212.130:8181/1080p/lnws.m3u8
 内蒙古卫视,https://live.264788.xyz/channel/neimengguweishi
@@ -25,7 +25,6 @@ CCTV-17,https://live.264788.xyz/channel/cctv17
 翡翠台,rtmp://demo2.anj365.com/live/xiangjiaoge-fc
 翡翠台,rtmp://223.76.215.33/live/xaingjiaoge-jade
 翡翠台,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fct
-翡翠台,http://45.192.97.170:8880/play/1182.m3u8
 翡翠台,http://c.123.rr.kg/163189/fct
 凤凰中文,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fhzw
 凤凰中文,http://c.123.rr.kg/163189/fhzw
@@ -33,7 +32,6 @@ CCTV-17,https://live.264788.xyz/channel/cctv17
 凤凰资讯,http://c.123.rr.kg/163189/fhzx
 凤凰香港,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fhxg
 凤凰香港,http://c.123.rr.kg/163189/fhhk
-东森电影,http://45.192.97.170:8880/play/1240.m3u8
 
 🕘️更新时间,#genre#
-2026-08-21 18:42:24,rtmp://ayrtsocndali.v.myalicdn.com/ayocnd/4kcctv16_2pd
+2026-08-23 18:32:57,rtmp://ayrtsocndali.v.myalicdn.com/ayocnd/4kcctv16_2pd
