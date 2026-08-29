@@ -757,6 +757,7 @@ TVBS亚洲,http://tv123.cc.cd/live.php?ch=1725&sid=cbaa47b759cc67a346acd5f50cacd
 三立台湾,https://ha.msbot.dpdns.org/4gtv_api.php?id=169
 三立台湾,https://www.youtube.com/watch
 三立台湾,https://ktpremium.world/live/LT1976F/A9177/1003298.ts
+三立台湾,https://hls-gateway.vpstv.net/streams/477050.m3u8
 三立新闻,http://iptv.diyp.site/公众号【DIYP】.php?key=gat5&id=db8e1e5ca873263badcb5fe80cf52d5f
 三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 三立新闻,https://4gtv.158.qzz.io/163189/6fb8aec9-e4b2-4bed-8832-b5e9cce4a830/
@@ -798,4 +799,4 @@ TVBS亚洲,http://tv123.cc.cd/live.php?ch=1725&sid=cbaa47b759cc67a346acd5f50cacd
 星卫娱乐,https://live.metshop.top/douyu/9403712
 
 🕘️更新时间,#genre#
-2026-08-28 04:22:08,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-08-29 23:09:12,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
