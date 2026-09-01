@@ -4,10 +4,6 @@ CCTV-16,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001258/
 CCTV-17,https://live.264788.xyz/channel/cctv17
 
 卫视频道,#genre#
-湖南卫视,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=1919436
-安徽卫视,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=1919481
-东方卫视,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=1919401
-江苏卫视,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=1919431
 江西卫视,https://live.264788.xyz/channel/jiangxiweishi
 内蒙古卫视,https://live.264788.xyz/channel/neimengguweishi
 宁夏卫视,https://live.264788.xyz/channel/ningxiaweishi
@@ -28,4 +24,4 @@ CCTV-17,https://live.264788.xyz/channel/cctv17
 凤凰香港,http://c.123.rr.kg/163189/fhhk
 
 🕘️更新时间,#genre#
-2026-09-01 01:36:54,rtmp://ayrtsocndali.v.myalicdn.com/ayocnd/4kcctv16_2pd
+2026-09-01 22:42:48,rtmp://ayrtsocndali.v.myalicdn.com/ayocnd/4kcctv16_2pd
