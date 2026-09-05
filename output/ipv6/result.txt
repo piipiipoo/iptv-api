@@ -799,4 +799,4 @@ TVBS亚洲,http://tv123.cc.cd/live.php?ch=1725&sid=cbaa47b759cc67a346acd5f50cacd
 星卫娱乐,https://live.metshop.top/douyu/9403712
 
 🕘️更新时间,#genre#
-2026-09-03 22:17:39,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-09-05 21:26:50,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33

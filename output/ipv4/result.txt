@@ -6,7 +6,6 @@ CCTV-17,https://live.264788.xyz/channel/cctv17
 卫视频道,#genre#
 浙江卫视,http://192.151.150.154/live/zjwshd.m3u8
 江西卫视,https://live.264788.xyz/channel/jiangxiweishi
-辽宁卫视,http://173.208.212.130:8181/1080p/lnws.m3u8
 内蒙古卫视,https://live.264788.xyz/channel/neimengguweishi
 宁夏卫视,https://live.264788.xyz/channel/ningxiaweishi
 四川卫视,https://live.264788.xyz/channel/sichuanweishi4k
@@ -17,13 +16,9 @@ CCTV-17,https://live.264788.xyz/channel/cctv17
 翡翠台,rtmp://demo2.anj365.com/live/xiangjiaoge-fc
 翡翠台,rtmp://223.76.215.33/live/xaingjiaoge-jade
 翡翠台,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fct
-翡翠台,http://c.123.rr.kg/163189/fct
 凤凰中文,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fhzw
-凤凰中文,http://c.123.rr.kg/163189/fhzw
 凤凰资讯,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fhzx
-凤凰资讯,http://c.123.rr.kg/163189/fhzx
 凤凰香港,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fhxg
-凤凰香港,http://c.123.rr.kg/163189/fhhk
 
 🕘️更新时间,#genre#
-2026-09-03 22:17:38,rtmp://ayrtsocndali.v.myalicdn.com/ayocnd/4kcctv16_2pd
+2026-09-05 21:26:50,rtmp://ayrtsocndali.v.myalicdn.com/ayocnd/4kcctv16_2pd
