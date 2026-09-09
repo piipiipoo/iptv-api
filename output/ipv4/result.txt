@@ -22,4 +22,4 @@ CCTV-17,https://live.264788.xyz/channel/cctv17
 凤凰香港,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fhxg
 
 🕘️更新时间,#genre#
-2026-09-07 23:40:07,rtmp://ayrtsocndali.v.myalicdn.com/ayocnd/4kcctv16_2pd
+2026-09-09 22:19:48,rtmp://ayrtsocndali.v.myalicdn.com/ayocnd/4kcctv16_2pd
