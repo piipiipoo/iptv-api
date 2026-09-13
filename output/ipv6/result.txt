@@ -763,6 +763,7 @@ TVBS亚洲,http://tv123.cc.cd/live.php?ch=1725&sid=cbaa47b759cc67a346acd5f50cacd
 三立新闻,https://4gtv.158.qzz.io/163189/6fb8aec9-e4b2-4bed-8832-b5e9cce4a830/
 三立新闻,https://d2jc41c1shgcol.cloudfront.net/live/iNEWS/playlist.m3u8
 三立新闻,https://www.goodiptv.club/douyu/5692901
+三立新闻,https://ktpremium.world/live/LT1976F/A9177/515185.ts
 东森综合,http://free.cnlive.club/channel/n31b0a4/index.m3u8
 东森综合,http://kaniptv.com/xz/xz.php?name=%E4%B8%9C%E6%A3%AE%E7%BB%BC%E5%90%88&index=0
 东森综合,http://kaniptv.com/xz/xz.php?name=%E4%B8%9C%E6%A3%AE%E7%BB%BC%E5%90%88&index=1
@@ -799,4 +800,4 @@ TVBS亚洲,http://tv123.cc.cd/live.php?ch=1725&sid=cbaa47b759cc67a346acd5f50cacd
 星卫娱乐,https://live.metshop.top/douyu/9403712
 
 🕘️更新时间,#genre#
-2026-09-11 22:13:04,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-09-13 22:13:57,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
