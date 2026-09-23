@@ -7,16 +7,28 @@ https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001258/index.m3
 https://live.264788.xyz/channel/cctv17
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="卫视频道",浙江卫视
 http://192.151.150.154/live/zjwshd.m3u8
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广西卫视.png" group-title="卫视频道",广西卫视
+http://mg.hmysapp.cn:177/偷源狗/卫视/广西卫视.php?id=301
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江西卫视.png" group-title="卫视频道",江西卫视
 https://live.264788.xyz/channel/jiangxiweishi
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/辽宁卫视.png" group-title="卫视频道",辽宁卫视
+http://173.208.212.130:8181/1080p/lnws.m3u8
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
 https://live.264788.xyz/channel/neimengguweishi
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/宁夏卫视.png" group-title="卫视频道",宁夏卫视
 https://live.264788.xyz/channel/ningxiaweishi
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/山东卫视.png" group-title="卫视频道",山东卫视
+http://mg.hmysapp.cn:177/偷源狗/卫视/山东卫视.php?id=301
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/四川卫视.png" group-title="卫视频道",四川卫视
 https://live.264788.xyz/channel/sichuanweishi4k
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视.png" group-title="卫视频道",深圳卫视
+http://mg.hmysapp.cn:177/偷源狗/卫视/深圳卫视.php?id=301
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天津卫视.png" group-title="卫视频道",天津卫视
+http://mg.hmysapp.cn:177/偷源狗/卫视/天津卫视.php?id=301
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/西藏卫视.png" group-title="卫视频道",西藏卫视
 https://live.264788.xyz/channel/xizangweishi
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/西藏卫视.png" group-title="卫视频道",西藏卫视
+http://mg.hmysapp.cn:177/偷源狗/卫视/西藏卫视.php?id=301
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新疆卫视.png" group-title="卫视频道",新疆卫视
 https://live.264788.xyz/channel/xinjiangweishi
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="港·澳·台",翡翠台
@@ -33,5 +45,5 @@ rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fhzx
 rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fhxg
 #EXTINF:-1 tvg-name="凤凰卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰卫视.png" group-title="港·澳·台",凤凰卫视
 https://live.264788.xyz/channel/fenghuangweishizhongwen?streamid=2f797f6963d4df5f391f48edfa50ff59&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk#http://cdn6.163189.xyz/163189/fhzw#http://vpn.clnas0001.top:9981/stream/channelid/2064247055?profile=pass
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-09-22 00:20:43
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-09-23 22:48:56
 rtmp://ayrtsocndali.v.myalicdn.com/ayocnd/4kcctv16_2pd
