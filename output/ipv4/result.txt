@@ -4,13 +4,13 @@ CCTV-16,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001258/
 CCTV-17,https://live.264788.xyz/channel/cctv17
 
 卫视频道,#genre#
+浙江卫视,http://192.151.150.154/live/zjwshd.m3u8
+广西卫视,http://mg.hmysapp.cn:177/偷源狗/卫视/广西卫视.php?id=301
 江西卫视,https://live.264788.xyz/channel/jiangxiweishi
 辽宁卫视,http://173.208.212.130:8181/1080p/lnws.m3u8
 内蒙古卫视,https://live.264788.xyz/channel/neimengguweishi
 宁夏卫视,https://live.264788.xyz/channel/ningxiaweishi
-山东卫视,http://mg.hmysapp.cn:177/偷源狗/卫视/山东卫视.php?id=301
 四川卫视,https://live.264788.xyz/channel/sichuanweishi4k
-天津卫视,http://mg.hmysapp.cn:177/偷源狗/卫视/天津卫视.php?id=301
 西藏卫视,https://live.264788.xyz/channel/xizangweishi
 新疆卫视,https://live.264788.xyz/channel/xinjiangweishi
 
@@ -24,4 +24,4 @@ CCTV-17,https://live.264788.xyz/channel/cctv17
 凤凰卫视,https://live.264788.xyz/channel/fenghuangweishizhongwen?streamid=2f797f6963d4df5f391f48edfa50ff59&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk#http://cdn6.163189.xyz/163189/fhzw#http://vpn.clnas0001.top:9981/stream/channelid/2064247055?profile=pass
 
 🕘️更新时间,#genre#
-2026-09-30 00:28:28,rtmp://ayrtsocndali.v.myalicdn.com/ayocnd/4kcctv16_2pd
+2026-10-02 01:02:46,rtmp://ayrtsocndali.v.myalicdn.com/ayocnd/4kcctv16_2pd
