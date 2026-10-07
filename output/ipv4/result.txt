@@ -28,4 +28,4 @@ CCTV-17,https://live.264788.xyz/channel/cctv17
 凤凰卫视,https://live.264788.xyz/channel/fenghuangweishizhongwen?streamid=2f797f6963d4df5f391f48edfa50ff59&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk#http://cdn6.163189.xyz/163189/fhzw#http://vpn.clnas0001.top:9981/stream/channelid/2064247055?profile=pass
 
 🕘️更新时间,#genre#
-2026-10-06 03:11:07,rtmp://ayrtsocndali.v.myalicdn.com/ayocnd/4kcctv16_2pd
+2026-10-08 01:22:21,rtmp://ayrtsocndali.v.myalicdn.com/ayocnd/4kcctv16_2pd
