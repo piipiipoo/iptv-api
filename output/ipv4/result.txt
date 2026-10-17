@@ -1,19 +1,14 @@
 央视频道,#genre#
-CCTV-4,http://198.204.228.26/live/cctv4k.m3u8
-CCTV-8,http://198.204.228.26/live/cctv8k.m3u8
-CCTV-15,http://45.192.97.170:8880/play/349.m3u8
+CCTV-9,http://173.208.234.146/live/cctv9.m3u8
 CCTV-16,rtmp://ayrtsocndali.v.myalicdn.com/ayocnd/4kcctv16_2pd
 CCTV-16,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001258/index.m3u8
 CCTV-17,https://live.264788.xyz/channel/cctv17
 
 卫视频道,#genre#
-广西卫视,http://mg.hmysapp.cn:177/偷源狗/卫视/广西卫视.php?id=301
 江西卫视,https://live.264788.xyz/channel/jiangxiweishi
 内蒙古卫视,https://live.264788.xyz/channel/neimengguweishi
 宁夏卫视,https://live.264788.xyz/channel/ningxiaweishi
-山东卫视,http://mg.hmysapp.cn:177/偷源狗/卫视/山东卫视.php?id=301
 四川卫视,https://live.264788.xyz/channel/sichuanweishi4k
-深圳卫视,http://mg.hmysapp.cn:177/偷源狗/卫视/深圳卫视.php?id=301
 西藏卫视,https://live.264788.xyz/channel/xizangweishi
 新疆卫视,https://live.264788.xyz/channel/xinjiangweishi
 
@@ -27,4 +22,4 @@ CCTV-17,https://live.264788.xyz/channel/cctv17
 凤凰卫视,https://live.264788.xyz/channel/fenghuangweishizhongwen?streamid=2f797f6963d4df5f391f48edfa50ff59&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk#http://cdn6.163189.xyz/163189/fhzw#http://vpn.clnas0001.top:9981/stream/channelid/2064247055?profile=pass
 
 🕘️更新时间,#genre#
-2026-10-15 22:48:35,http://198.204.228.26/live/cctv4k.m3u8
+2026-10-17 21:33:13,http://173.208.234.146/live/cctv9.m3u8
