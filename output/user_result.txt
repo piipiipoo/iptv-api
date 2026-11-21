@@ -59,6 +59,7 @@ CCTV-5,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638727e617ca0/
 CCTV-5,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
 CCTV-5,http://[2409:8087:2001:20:2800:0:df6e:eb21]:80/PLTV/1/224/3221230976/1.m3u8
 CCTV-5,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226019/index.m3u8?
+CCTV-5+,http://107.150.60.122/live//cctv5p.m3u8
 CCTV-5+,http://13937899.xyz:35455/gaoma/cctv5p.m3u8
 CCTV-5+,https://mgtv.ottiptv.cc/mg/641886773.m3u8?userid=5559462299&sign=0905ce5ab5d22a7f26d97febf8fe046394fbf2c5efa2e9157a629a0d6960e9529e0a06c709f4be35a39c7bf7beabbcd60834ffa48fe5af7708443424b581a47b93859cd6d1f88fcebacd8751a9bfc2f28a&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 CCTV-5+,http://[2409:8087:74f0:22::4]:6410/270000001111/1110000306/index.m3u8?channel-id=newtv&livemode=4&Contentid=1110000306
@@ -70,7 +71,6 @@ CCTV-5+,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225706/
 CCTV-5+,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225706/index.m3u8
 CCTV-5+,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225603/index.m3u8
 CCTV-5+,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221225603/index.m3u8
-CCTV-5+,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 CCTV-6,https://smart.pendy.dpdns.org/Smart.php?id=cctv6
 CCTV-6,http://13937899.xyz:35455/gaoma/cctv6.m3u8
 CCTV-6,https://mgtv.ottiptv.cc/mg/624878396.m3u8?userid=5559462299&sign=be7be3c197ebd74fcffdb545b926a71edc25b4cfda217c66f15e595a10c0e54cf0a6cfb416070175d47479404a5c7d5a87e150140c0574e60645b91159561fc344ce2b50f95bc170a446f8daa63b1ecd5e&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
@@ -107,8 +107,8 @@ CCTV-8,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225631/2
 CCTV-8,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225635/2/index.m3u8
 CCTV-8,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226008/index.m3u8
 CCTV-8,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638728970aa82/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUdDh4EPdDnvGlSBkYaxFdaymid9ta2tVUW0%2FdVrFqszC1EVEkAbpip1IYxn%2Ba2aA%2BVAihIiw9D8ejUsDbfU0K68
-CCTV-9,http://107.150.60.122/live//cctv9hd.m3u8
 CCTV-9,http://173.208.234.146/live/cctv9.m3u8
+CCTV-9,http://107.150.60.122/live//cctv9hd.m3u8
 CCTV-9,https://smart.pendy.dpdns.org/Smart.php?id=cctv9hd
 CCTV-9,https://mgtv.ottiptv.cc/mg/673168140.m3u8?userid=5559462299&sign=7ef878c5f7984ff5ddbd171d50f8dd906021b9ecfd04a4292e93e8be7d11ba78c38b493fcfeb304a695a17d0f5c4b8b5b94a51a770ac95bbed52130320fc6607d087f02ab16d84a4982869b9e724062d06&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 CCTV-9,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000505/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000505
@@ -601,6 +601,7 @@ CCTV-4美洲,http://zb.pl10000.top/4368_1767754402425.m3u8
 三沙卫视,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
 三沙卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?
 三沙卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?fmmv6
+天津卫视,http://mg.hmysapp.cn:177/偷源狗/卫视/天津卫视.php?id=301
 天津卫视,http://[2409:8087:74f0:22::6]:6410/270000001128/9900000530/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000530
 天津卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
 天津卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
@@ -612,7 +613,6 @@ CCTV-4美洲,http://zb.pl10000.top/4368_1767754402425.m3u8
 天津卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225739/2/index.m3u8
 天津卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226459/index.m3u8
 天津卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226459/index.m3u8
-天津卫视,http://[2409:8087:2001:20:2800:0:df6e:eb11]/wh7f454c46tw2730715388_788631706/ott.mobaibox.com/PLTV/3/224/3221227488/index.m3u8?icpid=3&RTS=1668597525&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
 西藏卫视,https://live.264788.xyz/channel/xizangweishi
 西藏卫视,http://mg.hmysapp.cn:177/偷源狗/卫视/西藏卫视.php?id=301
 西藏卫视,http://php.jdshipin.com/xztv.php?id=ws#http://php.jdshipin.com:8880/xztv.php?id=ws#http://cc02.tv12.xyz/9.m3u8
@@ -802,4 +802,4 @@ TVBS亚洲,http://tv123.cc.cd/live.php?ch=1725&sid=cbaa47b759cc67a346acd5f50cacd
 星卫娱乐,https://live.metshop.top/douyu/9403712
 
 🕘️更新时间,#genre#
-2026-11-20 02:52:57,http://107.150.60.122/live//cctv1hd.m3u8
+2026-11-22 01:10:42,http://107.150.60.122/live//cctv1hd.m3u8
